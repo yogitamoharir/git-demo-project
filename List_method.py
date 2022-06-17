@@ -4,13 +4,13 @@ print(list1)
 list1.insert(2,"grapes")
 print(list1)
 
-tropical = ["mango", "pineapple", "papaya"]
+tropical = ["mango", "pineapple", "papya"]
 list1.extend(tropical)
 print(list1)
 list1.append(tropical)
 print(list1)
 
-list1.remove("papaya")
+list1.remove("papya")
 print(list1)
 list1.pop()
 print(list1)
